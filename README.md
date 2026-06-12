@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Suman Prasad Neupane 👋</h1>
 
 <h3 align="center">
-AI/ML Engineer & Researcher | Software Engineer | AI Trainer
+AI/ML Engineer & Researcher | Former Mobile & Backend Engineer
 </h3>
 
 <p align="center">
