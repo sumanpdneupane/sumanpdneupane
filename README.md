@@ -94,5 +94,5 @@ Experiments around LLMs, prompting, AI workflows, and practical AI use cases.
 
 ## 📫 Connect With Me
 
-- LinkedIn: ![https://www.linkedin.com/in/suman-o-neupane/](https://www.linkedin.com/in/suman-o-neupane/)
+- LinkedIn:https://www.linkedin.com/in/suman-o-neupane/
 - Email: sumanmyon.sam@gmail.com
