@@ -251,9 +251,7 @@ Delivered practical AI training and workshops for professional groups and organi
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanpdneupane&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanpdneupane&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanpdneupane&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
 </div>
 
@@ -271,24 +269,6 @@ Delivered practical AI training and workshops for professional groups and organi
 </div>
 
 ---
-
-## 📊 GitHub Dashboard
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanpdneupane&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br />
-<br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sumanpdneupane&theme=tokyonight&hide_border=true" />
-
-<br />
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumanpdneupane&theme=tokyo-night&hide_border=true" />
-
-</div>
 
 ## 🏆 GitHub Trophy Dashboard
 
