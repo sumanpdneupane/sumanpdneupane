@@ -2,7 +2,7 @@
 
 # Hi, I'm Suman Prasad Neupane 👋
 
-### AI/ML Engineer & Researcher| Software Engineer
+### AI/ML Engineer & Researcher | Former Backend & Mobile Engineer
 
 I build **AI/ML workflows, data pipelines, backend systems, and digital products** that transform complex business problems into practical, scalable, production-ready solutions.
 
