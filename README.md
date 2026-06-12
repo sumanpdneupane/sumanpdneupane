@@ -272,6 +272,24 @@ Delivered practical AI training and workshops for professional groups and organi
 
 ---
 
+## 📊 GitHub Dashboard
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanpdneupane&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br />
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sumanpdneupane&theme=tokyonight&hide_border=true" />
+
+<br />
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumanpdneupane&theme=tokyo-night&hide_border=true" />
+
+</div>
+
 ## 🏆 GitHub Trophy Dashboard
 
 <div align="center">
